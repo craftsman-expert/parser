@@ -1,5 +1,6 @@
 {
-  "name": "parser/parser",
+  "name": "igorpopryadukhin/parser",
+  "type": "library",
   "description": "parser",
   "license": "proprietary",
   "version": "1.0.0",
