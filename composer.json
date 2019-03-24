@@ -1,0 +1,31 @@
+{
+  "name": "parser/parser",
+  "description": "parser",
+  "license": "proprietary",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "igor",
+      "email": "igorpopryadukhin@gmail.com"
+    }
+  ],
+
+  "require": {
+    "guzzlehttp/guzzle": "^6.3.3",
+    "jaeger/querylist": "^4.1"
+  },
+
+  "require-dev": {
+
+  },
+
+  "autoload": {
+    "classmap": [
+      "src/"
+    ],
+
+    "files": [
+      "src/function.php"
+    ]
+  }
+}
