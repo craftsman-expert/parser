@@ -4,6 +4,7 @@
   "description": "parser",
   "license": "proprietary",
   "version": "1.0.0",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "igor",
